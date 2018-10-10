@@ -22,4 +22,4 @@ A demo version of this project can be found [here](https://riddle-bencomo.heroku
 
 # Sources:
     * https://riddles.fyi/funny-riddles/page/8/
-Hola Luis
+Yo soy mas juerte
