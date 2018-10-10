@@ -22,5 +22,4 @@ A demo version of this project can be found [here](https://riddle-bencomo.heroku
 
 # Sources:
     * https://riddles.fyi/funny-riddles/page/8/
-Buenas pequeño yorch
-    
+Yo soy mas juerte
